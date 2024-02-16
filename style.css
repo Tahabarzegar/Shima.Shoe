@@ -31,3 +31,16 @@ img{
 img{
     float: right;
 }
+.shoe1{
+    width: 450px;
+    height: 450px;
+    border: hidden;
+    border-radius: 10px;
+}
+.shoe2{
+    width: 450px;
+    height: 450px;
+    border: hidden;
+    border-radius: 10px;
+    float: right;
+}
