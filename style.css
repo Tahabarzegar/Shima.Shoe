@@ -1,0 +1,13 @@
+img{
+    float: left;
+    display: inline;
+    
+}
+input{
+    border: none;
+    border-radius: 10px;
+    padding: 10px 30px 10px 70px;
+    background-color: rgb(247, 245, 245);
+    margin-left: 0%;
+    text-align: left;
+}
