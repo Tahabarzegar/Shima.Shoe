@@ -1,13 +1,33 @@
 img{
-    float: left;
+    float: right;
     display: inline;
-    
+    margin-left: 50px;
 }
 input{
-    border: none;
+    border: hidden;
+    background-color: rgb(243, 243, 243);
     border-radius: 10px;
-    padding: 10px 30px 10px 70px;
-    background-color: rgb(247, 245, 245);
-    margin-left: 0%;
-    text-align: left;
+    margin-top: 20px;
+    height: 30px ;
+    float: right;
+    text-align: right;
+    font-size: large;
+    padding-right: 25px;
+}
+p{
+    float: right;
+    border: hidden;
+    background-color: rgb(255, 255, 255);
+    padding-top: 10px;
+    padding-right: 10px;
+    text-align: center;
+    font-size:large;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+img{
+    height: 80px;
+}
+img{
+    float: right;
 }
