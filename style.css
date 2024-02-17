@@ -37,22 +37,23 @@ img {
 img {
     float: right;
 }
-/* 
+
 .shoe1 {
-    width: 450px;
-    height: 450px;
+    width: 500px;
+    height: 240px;
     border: hidden;
     border-radius: 10px;
     float: right;
+    margin-bottom: 10px;
 }
 
 .shoe2 {
-    width: 450px;
-    height: 450px;
+    width: 500px;
+    height: 240px;
     border: hidden;
     border-radius: 10px;
-
-} */
+    float: right;
+}  
 
 .sabad {
     margin-right: 20px;
@@ -104,4 +105,11 @@ img {
     color:rgb(107, 107, 107);
     padding: 0%;
     margin: 30px;
+}
+.shoe3{
+    float: left;
+    height: 494px;
+    border: hidden;
+    border-radius: 10px;
+    width: 600px;
 }
