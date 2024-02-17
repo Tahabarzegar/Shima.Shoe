@@ -53,7 +53,7 @@ img {
     border: hidden;
     border-radius: 10px;
     float: right;
-}  
+}
 
 .sabad {
     margin-right: 20px;
@@ -62,6 +62,7 @@ img {
 .box {
     width: 20%;
 }
+
 .branch {
     float: left;
     border: hidden;
@@ -78,109 +79,180 @@ img {
     border: hidden;
     background-color: rgb(255, 255, 255);
     border-radius: 20px;
-    color:rgb(107, 107, 107);
+    color: rgb(107, 107, 107);
 
 }
-.j{
+
+.j {
     float: left;
     border: hidden;
     /* background-color: rgb(255, 255, 255);
     border-radius: 20px;
     color:rgb(107, 107, 107); */
-} 
-.m{
-    background-color: rgb(255, 255, 255);
-    color:rgb(107, 107, 107);
 }
-.z{
+
+.m {
     background-color: rgb(255, 255, 255);
-    color:rgb(107, 107, 107);
+    color: rgb(107, 107, 107);
 }
-.b{
+
+.z {
     background-color: rgb(255, 255, 255);
-    color:rgb(107, 107, 107);
+    color: rgb(107, 107, 107);
 }
-.ba{
+
+.b {
     background-color: rgb(255, 255, 255);
-    color:rgb(107, 107, 107);
+    color: rgb(107, 107, 107);
+}
+
+.ba {
+    background-color: rgb(255, 255, 255);
+    color: rgb(107, 107, 107);
     padding: 0%;
     margin: 30px;
 }
-.shoe3{
+
+.shoe3 {
     float: left;
     height: 494px;
     border: hidden;
     border-radius: 10px;
     width: 600px;
 }
-.dbm{
+
+.dbm {
     color: green;
     margin: 20px 500px 30px 450px;
     font-size: 30px;
 }
-.sand{
+
+.sand {
     float: left;
     border: hidden;
     border-radius: 20px;
     background-color: rgb(199, 199, 199);
-    padding-left:15px;
+    padding-left: 15px;
     padding-top: 40px;
     padding-bottom: 40px;
-    padding-right:15px;
-    margin: 5px;
+    padding-right: 15px;
+    margin: 2px;
 }
-.bag{
+
+.bag {
     float: left;
     border: hidden;
     border-radius: 20px;
     background-color: rgb(199, 199, 199);
-    padding-left:40px;
+    padding-left: 40px;
     padding-top: 40px;
     padding-bottom: 40px;
-    padding-right:40px;
-    margin: 5px;
+    padding-right: 40px;
+    margin: 2px;
 }
-.s{
+
+.s {
     float: left;
     border: hidden;
     border-radius: 20px;
     background-color: rgb(199, 199, 199);
-    padding-left:20px;
+    padding-left: 20px;
     padding-top: 40px;
     padding-bottom: 40px;
-    padding-right:20px;
-    margin: 5px;
+    padding-right: 20px;
+    margin: 2px;
 }
-.daily{
+
+.daily {
     float: left;
     border: hidden;
     border-radius: 20px;
     background-color: rgb(199, 199, 199);
-    padding-left:20px;
+    padding-left: 20px;
     padding-top: 40px;
     padding-bottom: 40px;
-    padding-right:20px;
-    margin: 5px;
+    padding-right: 20px;
+    margin: 2px;
 }
-.f{
+
+.f {
     float: left;
     border: hidden;
     border-radius: 20px;
     background-color: rgb(199, 199, 199);
-    padding-left:20px;
+    padding-left: 20px;
     padding-top: 40px;
     padding-bottom: 40px;
-    padding-right:20px;
-    margin: 5px;
+    padding-right: 20px;
+    margin: 2px;
 }
-.mas{
+
+.mas {
     float: left;
     border: hidden;
     border-radius: 20px;
     background-color: rgb(199, 199, 199);
-    padding-left:20px;
+    padding-left: 20px;
     padding-top: 40px;
     padding-bottom: 40px;
-    padding-right:20px;
-    margin: 5px;
+    padding-right: 20px;
+    margin: 2px;
+}
+
+.kid {
+    float: left;
+    border: hidden;
+    border-radius: 20px;
+    background-color: rgb(199, 199, 199);
+    padding-left: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 20px;
+    margin: 2px;
+}
+
+#s {
+    color: black;
+    font-size: 25px;
+    float: left;
+    margin-left: 10px;
+    margin-right: 1px;
+}
+
+#k {
+    color: black;
+    font-size: 25px;
+    float: left;
+    margin-left: 30px;
+}
+
+#sp {
+    color: black;
+    font-size: 25px;
+    float: left;
+    margin-left: 5px;
+}
+#d{
+    color: black;
+    font-size: 25px;
+    float: left;
+    margin-left: 20px;
+}
+#f{
+    color: black;
+    font-size: 25px;
+    float: left;
+    margin-left: 50px;
+}
+#m{
+    color: black;
+    font-size: 25px;
+    float: left;
+    margin-left: 70px;
+}
+#b{
+    color: black;
+    font-size: 25px;
+    float: left;
+    margin-left: 70px;
 }
