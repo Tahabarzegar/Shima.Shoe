@@ -113,3 +113,74 @@ img {
     border-radius: 10px;
     width: 600px;
 }
+.dbm{
+    color: green;
+    margin: 20px 500px 30px 450px;
+    font-size: 30px;
+}
+.sand{
+    float: left;
+    border: hidden;
+    border-radius: 20px;
+    background-color: rgb(199, 199, 199);
+    padding-left:15px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right:15px;
+    margin: 5px;
+}
+.bag{
+    float: left;
+    border: hidden;
+    border-radius: 20px;
+    background-color: rgb(199, 199, 199);
+    padding-left:40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right:40px;
+    margin: 5px;
+}
+.s{
+    float: left;
+    border: hidden;
+    border-radius: 20px;
+    background-color: rgb(199, 199, 199);
+    padding-left:20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right:20px;
+    margin: 5px;
+}
+.daily{
+    float: left;
+    border: hidden;
+    border-radius: 20px;
+    background-color: rgb(199, 199, 199);
+    padding-left:20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right:20px;
+    margin: 5px;
+}
+.f{
+    float: left;
+    border: hidden;
+    border-radius: 20px;
+    background-color: rgb(199, 199, 199);
+    padding-left:20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right:20px;
+    margin: 5px;
+}
+.mas{
+    float: left;
+    border: hidden;
+    border-radius: 20px;
+    background-color: rgb(199, 199, 199);
+    padding-left:20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right:20px;
+    margin: 5px;
+}
