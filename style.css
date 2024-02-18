@@ -263,14 +263,15 @@ img {
 
 .banr {
     border: hidden;
-    border-radius:10px ;
+    border-radius: 10px;
     margin-top: 30px;
     margin-left: 10px;
     margin-bottom: 40px;
     width: 1200px;
     height: 300px;
 }
-#mhm{
+
+#mhm {
     border: hidden;
     color: white;
     background: rgb(59, 121, 59);
@@ -279,12 +280,14 @@ img {
     border-radius: 5px;
     display: block;
 }
-#khm{
+
+#khm {
     color: black;
     float: right;
     margin-right: 60px;
     display: block;
 }
-#khp{
+
+#khp {
     display: block;
 }
