@@ -1,16 +1,59 @@
-img {
-    float: right;
-    display: inline;
-    margin-left: 50px;
+.logo5 {
+    position: absolute;
+    right: 10px;
 }
 
-input {
+#search {
+    margin-top: 15px;
+    margin-right: 266px;
+    border: hidden;
+    background-color: rgb(248, 248, 248);
+    border-radius: 4px;
+    height: 35px;
+    padding: 5px;
+    width: 400px;
+    display: inline;
+    font-size: 20px;
+}
+
+#submit {
+    position: absolute;
+    right: 350px;
+    margin-top: 15px;
+    border: hidden;
+    background-color: rgb(248, 248, 2548);
+    border-radius: 4px;
+    height: 45px;
+    margin-right: 100px;
+    padding: 5px;
+    width: 250px;
+    text-align: left;
+    display: inline;
+    font-size: 20px;
+}
+
+#p1{
+    margin-right: 770px;
+    margin-top: -30px;
+    font-size: 20px;
+}
+#sabad{
+    position: absolute;
+    top: 25px;
+    margin-right: 930px;
+}
+#support{
+    position: absolute;
+    top: 18px;
+    margin-right: 990px;
+}
+/* input {
     border: hidden;
     background-color: rgb(243, 243, 243);
     border-radius: 10px;
     margin-top: 20px;
     height: 30px;
-    float: right;
+
     text-align: right;
     font-size: large;
     padding-right: 25px;
@@ -18,7 +61,7 @@ input {
 }
 
 p {
-    float: right;
+
     border: hidden;
     background-color: rgb(255, 255, 255);
     padding-top: 10px;
@@ -35,7 +78,7 @@ img {
 }
 
 img {
-    float: right;
+
 }
 
 .shoe1 {
@@ -43,7 +86,7 @@ img {
     height: 240px;
     border: hidden;
     border-radius: 10px;
-    float: right;
+
     margin-bottom: 10px;
 }
 
@@ -52,7 +95,7 @@ img {
     height: 240px;
     border: hidden;
     border-radius: 10px;
-    float: right;
+
 }
 
 .sabad {
@@ -64,7 +107,7 @@ img {
 }
 
 .branch {
-    float: left;
+
     border: hidden;
     background-color: rgb(0, 120, 40);
     border-radius: 20px;
@@ -75,7 +118,7 @@ img {
 }
 
 .g {
-    float: left;
+
     border: hidden;
     background-color: rgb(255, 255, 255);
     border-radius: 20px;
@@ -84,11 +127,9 @@ img {
 }
 
 .j {
-    float: left;
+
     border: hidden;
-    /* background-color: rgb(255, 255, 255);
-    border-radius: 20px;
-    color:rgb(107, 107, 107); */
+
 }
 
 .m {
@@ -114,7 +155,7 @@ img {
 }
 
 .shoe3 {
-    float: left;
+
     height: 494px;
     border: hidden;
     border-radius: 10px;
@@ -128,7 +169,7 @@ img {
 }
 
 .sand {
-    float: left;
+
     border: hidden;
     border-radius: 20px;
     background-color: rgb(199, 199, 199);
@@ -140,7 +181,7 @@ img {
 }
 
 .bag {
-    float: left;
+
     border: hidden;
     border-radius: 20px;
     background-color: rgb(199, 199, 199);
@@ -152,7 +193,6 @@ img {
 }
 
 .s {
-    float: left;
     border: hidden;
     border-radius: 20px;
     background-color: rgb(199, 199, 199);
@@ -164,7 +204,6 @@ img {
 }
 
 .daily {
-    float: left;
     border: hidden;
     border-radius: 20px;
     background-color: rgb(199, 199, 199);
@@ -176,7 +215,6 @@ img {
 }
 
 .f {
-    float: left;
     border: hidden;
     border-radius: 20px;
     background-color: rgb(199, 199, 199);
@@ -188,7 +226,6 @@ img {
 }
 
 .mas {
-    float: left;
     border: hidden;
     border-radius: 20px;
     background-color: rgb(199, 199, 199);
@@ -200,7 +237,6 @@ img {
 }
 
 .kid {
-    float: left;
     border: hidden;
     border-radius: 20px;
     background-color: rgb(199, 199, 199);
@@ -214,7 +250,6 @@ img {
 #s {
     color: black;
     font-size: 25px;
-    float: left;
     margin-left: 10px;
     margin-right: 1px;
 }
@@ -222,42 +257,39 @@ img {
 #k {
     color: black;
     font-size: 25px;
-    float: left;
+
     margin-left: 30px;
 }
 
 #sp {
     color: black;
     font-size: 25px;
-    float: left;
+
     margin-left: 5px;
 }
 
 #d {
     color: black;
     font-size: 25px;
-    float: left;
+
     margin-left: 20px;
 }
 
 #f {
     color: black;
     font-size: 25px;
-    float: left;
     margin-left: 50px;
 }
 
 #m {
     color: black;
     font-size: 25px;
-    float: left;
     margin-left: 70px;
 }
 
 #b {
     color: black;
     font-size: 25px;
-    float: left;
     margin-left: 70px;
 }
 
@@ -275,12 +307,10 @@ img {
     color: white;
     background: rgb(59, 121, 59);
     padding: 20px;
-    float: left;
     border-radius: 5px;
 }
 #khm{
     color: black;
-    float: right;
     margin-right: 60px;
     display: block;
-}
+} */
