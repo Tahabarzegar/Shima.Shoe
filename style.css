@@ -1,3 +1,7 @@
+body {
+    margin: 0px;
+}
+
 .logo5 {
     position: absolute;
     right: 10px;
@@ -32,21 +36,138 @@
     font-size: 20px;
 }
 
-#p1{
+#p1 {
     margin-right: 770px;
     margin-top: -30px;
     font-size: 20px;
 }
-#sabad{
+
+#sabad {
     position: absolute;
     top: 25px;
     margin-right: 930px;
 }
-#support{
+
+#support {
     position: absolute;
     top: 18px;
     margin-right: 990px;
 }
+
+.d {
+    font-size: 20px;
+    position: absolute;
+    top: 70px;
+    right: 430px;
+}
+
+.dr {
+    font-size: 20px;
+    position: absolute;
+    top: 70px;
+    right: 900px;
+}
+
+.a {
+    font-size: 20px;
+    position: absolute;
+    top: 70px;
+    right: 85px;
+}
+
+.b {
+    font-size: 20px;
+    position: absolute;
+    top: 70px;
+    right: 180px;
+}
+
+.c {
+    font-size: 20px;
+    position: absolute;
+    top: 70px;
+    right: 340px;
+}
+
+.e {
+    font-size: 20px;
+    position: absolute;
+    top: 70px;
+    right: 250px;
+}
+
+.f {
+    font-size: 20px;
+    position: absolute;
+    top: 70px;
+    right: 555px;
+}
+
+.g {
+    font-size: 20px;
+    position: absolute;
+    top: 70px;
+    right: 680px;
+}
+
+.branch {
+    font-size: 20px;
+    position: absolute;
+    top: 63px;
+    right: 1050px;
+    border: hidden;
+    background-color: green;
+    border-radius: 5px;
+    padding: 8px;
+    width: 80px;
+    text-align: center;
+    color: white;
+}
+
+#s3 {
+    border: hidden;
+    border-radius: 30px;
+    position: absolute;
+    right: 460px;
+    top: 150px;
+}
+
+#s2 {
+    border: hidden;
+    border-radius: 20px;
+    position: absolute;
+    top: 150px;
+    margin-right: 37px;
+}
+
+#s1 {
+    position: absolute;
+    top: 378px;
+    border: hidden;
+    border-radius: 30px;
+    position: absolute;
+    margin-right: 37px;
+}
+
+#h1 {
+    color: rgb(73, 190, 116);
+    margin-top: 600px;
+    text-align: center;
+}
+
+#sandal {
+    width: 120px;
+    border: 0.1px solid rgb(68, 68, 68);
+    margin-right: 1080px;
+}
+
+#bag {
+    width: 120px;
+    border: 0.1px solid rgb(68, 68, 68);
+    margin-right: 1080px;
+    
+}
+
 /* input {
     border: hidden;
     background-color: rgb(243, 243, 243);
